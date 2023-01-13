@@ -21,4 +21,4 @@ def SendImage(txt, path):
 # if int(cls)== 67:
 #    ln.SendTxt(int(cls))
 #    cv2.imwrite("img.jpg", imc)
-#    ln.SendImage(str(cls), "img.jpg"
+#    ln.SendImage(str(cls), "img.jpg")
